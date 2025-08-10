@@ -73,7 +73,7 @@ _Note: The model file is automatically downloaded from Google Drive if not prese
 
 ## 📌 Credits
 
-Developed by **Bashyakarla vallabh
+Developed by **Bashyakarla vallabh**
 **  
 As part of an advanced image classification project using deep learning and deployment techniques.
 
